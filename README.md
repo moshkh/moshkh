@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moshkh
+- 👋 Hi, I’m Musab AKA @moshkh 
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Javascript
 - 📫 Contact me at moshkhussain@gmail.com

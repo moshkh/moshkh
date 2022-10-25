@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Musab AKA @moshkh 
-- 🌱 I’m currently studying web development at Northcoders
-- 👀 I’m interested in a Web Dev role
+- 🌱 I’m currently studying software development at Northcoders
+- 👀 I’m interested in a Junior Development Role
 - 📫 Contact me at moshkhussain@gmail.com
 
 <!---

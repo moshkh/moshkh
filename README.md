@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Musab AKA @moshkh 
-- 🌱 I’m currently studying software development at Northcoders
+- 🌱 Trainee software developer at Northcoders Bootcamp
 - 👀 I’m interested in a Junior Development Role
 - 📫 Contact me at moshkhussain@gmail.com
 

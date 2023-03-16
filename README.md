@@ -1,19 +1,56 @@
-# About Me
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWI4Zjg0OGEwZGY0MDNhNTlhNTAyMDlkZDc1NzFlNzI1ZWU0MGVjYyZjdD1n/hT3YBpxiA8oWXx4V9K/giphy.gif" />
+</p>
 
-- 👋 Hi, I’m Musab AKA @moshkh 
-- 🌱 Junior software developer recently completed Northcoders bootcamp
-- 👀 I’m interested in a Junior Development Role
-- 📫 Contact me at [LinkedIn](https://www.linkedin.com/in/musabhussain/)
+<h1 align="center">Hi I'm Musab aka <a href="https://github.com/moshkh">moshkh!</a></h1>
 
-## What am I upto right now
+<div align="center">
+<a href="https://www.musabhussain.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About&logoColor=white" alt="Website"></a>
+<a href="https://www.linkedin.com/in/musabhussain/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?color=black&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://dev.to/moshkh"><img src="https://img.shields.io/badge/dev.to-0A0A0A?color=black&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to blog"></a>
+<a href="https://github.com/moshkh?tab=repositories"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
+<img src="https://img.shields.io/badge/Medium-12100E?color=black&style=for-the-badge&logo=medium&logoColor=white" alt="medium">
+</div>
+<h2 align="center"></h2>
 
-:pencil2: Creating a personal portfolio website with SvelteKit on the front-end and Express.js + PSQL on the backend. The website will include a personal blog, the entries will be saved on the PSQL database. RESTful API's will be created to link the backend to the frontend.
+<p align="center" float="left">
+<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" height="40">
+<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" height="40">
+<img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" height="40">
+<img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" height="40">
+<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="40">
+<img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" height="40">
+<img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" height="40">
+<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" height="40">
+<img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" height="40">
+<img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" height="40">
+<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" height="40">
+<img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" height="40">
+<img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" height="40">
+<img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" height="40">
+</p>
+  
+---
 
-:pencil2: A pet project which essentially is a tool to help with listing on the Etsy marketplace. It will interface with the Etsy API and improve the workflow for sellers to update / create new listings. My dad has an online business and he sells on different marketplaces including Etsy, I'm creating this tool with him in mind - addressing the challenges he faces when listing his products on Etsy. (In the planning stages for this project)
+## Great to see you here!
+
+Welcome to my GitHub README! I was originally drawn to software development through a keen curiosity to understand how modern tech works, which led me to pivot my career and pursue software development.
+
+I've discovered a passion for coding and the immense potential it has to transform our world. The more I learn, the more I realize how much there is to explore in the world of software development. My GitHub repo serves as a platform for me to share my projects.
+
+As I continue to grow in this field, I am committed to learning and keeping up-to-date with the latest trends and technologies. Thank you for visiting my GitHub profile, I hope you find it informative and engaging. If you have any questions, ideas, or opportunities for collaboration, don't hesitate to reach out. Let's connect and explore the exciting world of software development together!
 
 
-[<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" align="right">](https://github.com/moshkh?tab=repositories)
+## What am I upto?
 
+:pencil2: Creating a personal portfolio website with SvelteKit
+
+:pencil2: Creating a personalised content management system for a blog that will interface with Notion (my productivity tool of choice)
+
+
+<!-- ## GitHub stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moshkh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 
 <!---
 moshkh/moshkh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

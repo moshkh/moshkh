@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/musabhussain/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?color=black&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://dev.to/moshkh"><img src="https://img.shields.io/badge/dev.to-0A0A0A?color=black&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to blog"></a>
 <a href="https://github.com/moshkh?tab=repositories"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
-<a href="https://medium.com/@musab.h"
+<a href="https://medium.com/@musab.h">
 <img src="https://img.shields.io/badge/Medium-12100E?color=black&style=for-the-badge&logo=medium&logoColor=white" alt="medium"></a>
 </div>
 <h2 align="center"></h2>

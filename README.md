@@ -37,17 +37,16 @@
 
 Welcome to my GitHub README! I was originally drawn to software development through a keen curiosity to understand how modern tech works, which led me to pivot my career and pursue software development.
 
-I've discovered a passion for coding and the immense potential it has to transform our world. The more I learn, the more I realize how much there is to explore in the world of software development. My GitHub repo serves as a platform for me to share my projects.
+I've discovered a passion for coding and the immense potential it has to transform our world. The more I learn, the more I realize how much there is to explore in the world of software development. My GitHub repo serves as a platform to share my projects.
 
 As I continue to grow in this field, I am committed to learning and keeping up-to-date with the latest trends and technologies. Thank you for visiting my GitHub profile, I hope you find it informative and engaging. If you have any questions, ideas, or opportunities for collaboration, don't hesitate to reach out. Let's connect and explore the exciting world of software development together!
 
 
 ## What am I upto?
 
-:pencil2: Creating a personal portfolio website with SvelteKit
+:pencil2: Studying a computing degree at university.
 
-:pencil2: Creating a personalised content management system for a blog that will interface with Notion (my productivity tool of choice)
-
+:pencil2: Building [Worditionary](https://www.etsy.com/shop/worditionary), a typography quote art print business. I'm using my software development skills to automate as many tasks such as picture generation and listings.
 
 <!-- ## GitHub stats
 

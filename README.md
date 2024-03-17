@@ -46,7 +46,7 @@ As I continue to grow in this field, I am committed to learning and keeping up-t
 
 :pencil2: Studying a computing degree at university.
 
-:pencil2: Building [Worditionary](https://www.etsy.com/shop/worditionary), a typography quote art print business. I'm using my software development skills to automate as many tasks such as picture generation and listings.
+:pencil2: Building Micro-SaaS projects as a solo developer.
 
 <!-- ## GitHub stats
 

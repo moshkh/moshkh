@@ -48,6 +48,8 @@ As I continue to grow in this field, I am committed to learning and keeping up-t
 
 :pencil2: Building Micro-SaaS projects as a solo developer.
 
+:pencil2: Offering Web Development services
+
 <!-- ## GitHub stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moshkh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->

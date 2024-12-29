@@ -46,9 +46,9 @@ As I continue to grow in this field, I am committed to learning and keeping up-t
 
 :pencil2: Studying a computing degree at university.
 
-:pencil2: Building Micro-SaaS projects as a solo developer.
+:pencil2: A lean enttreprenuer building small team businesses
 
-:pencil2: Offering Web Development services
+:pencil2: Offering Web Development services through my company (CodeM Labs)[www,codemlabs.com]
 
 <!-- ## GitHub stats
 

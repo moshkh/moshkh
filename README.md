@@ -43,7 +43,7 @@ I've discovered a passion for coding and the immense potential it has to transfo
 
 :pencil2: Studying a computing degree at university.
 
-:pencil2: A lean enttreprenuer building small team businesses
+:pencil2: A lean entreprenuer building micro to small businesses.
 
 :pencil2: Offering Web Development services through my company [CodeM Labs](www.codemlabs.com)
 

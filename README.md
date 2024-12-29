@@ -48,7 +48,7 @@ As I continue to grow in this field, I am committed to learning and keeping up-t
 
 :pencil2: A lean enttreprenuer building small team businesses
 
-:pencil2: Offering Web Development services through my company (CodeM Labs)[www,codemlabs.com]
+:pencil2: Offering Web Development services through my company [CodeM Labs](www.codemlabs.com)
 
 <!-- ## GitHub stats
 

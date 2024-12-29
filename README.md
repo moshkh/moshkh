@@ -37,10 +37,7 @@
 
 Welcome to my GitHub README! I was originally drawn to software development through a keen curiosity to understand how modern tech works, which led me to pivot my career and pursue software development.
 
-I've discovered a passion for coding and the immense potential it has to transform our world. The more I learn, the more I realize how much there is to explore in the world of software development. My GitHub repo serves as a platform to share my projects.
-
-As I continue to grow in this field, I am committed to learning and keeping up-to-date with the latest trends and technologies. Thank you for visiting my GitHub profile, I hope you find it informative and engaging. If you have any questions, ideas, or opportunities for collaboration, don't hesitate to reach out. Let's connect and explore the exciting world of software development together!
-
+I've discovered a passion for coding and the immense potential it has to transform our world. The more I learn, the more I realize how much there is to explore in the world of software development.
 
 ## What am I upto?
 

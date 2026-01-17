@@ -39,11 +39,7 @@
 
 Welcome to my GitHub README! I was originally drawn to software development through a keen curiosity to understand how modern tech works, which led me to pivot my career and pursue software development.
 
-I've discovered a passion for coding and the immense potential it has to transform our world. The more I learn, the more I realize how much there is to explore in the world of software development.
-
 ## What am I upto?
-
-:pencil2: Studying a computing degree at university.
 
 :pencil2: A lean entreprenuer building micro to small businesses.
 

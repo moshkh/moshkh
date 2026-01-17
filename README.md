@@ -5,7 +5,6 @@
 <h1 align="center">Hi I'm Musab aka <a href="https://github.com/moshkh">moshkh!</a></h1>
 
 <div align="center">
-<a href="https://www.musabhussain.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About&logoColor=white" alt="Website"></a>
 <a href="https://www.codemlabs.com?utm_source=github&utm_medium=readme&utm_campaign=profile"><img src="https://img.shields.io/badge/CodeMLabs-000000?style=for-the-badge&logo=CodeMLabs&logoColor=white" alt="CodeM Labs"></a>
 <a href="https://www.linkedin.com/in/musabhussain/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?color=black&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://dev.to/moshkh"><img src="https://img.shields.io/badge/dev.to-0A0A0A?color=black&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to blog"></a>

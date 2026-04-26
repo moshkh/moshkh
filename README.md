@@ -40,7 +40,7 @@ Welcome to my GitHub README! I was originally drawn to software development thro
 
 ## What am I upto?
 
-:pencil2: A lean entreprenuer building micro to small businesses.
+:pencil2: A lean entreprenuer building software & digital products.
 
 :pencil2: Offering Web Development services through my company [CodeM Labs](www.codemlabs.com)
 
